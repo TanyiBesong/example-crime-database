@@ -1,0 +1,17 @@
+crt_id,crt_location,crt_date,crt_time,verdict
+1,"winona county",2021-10-15,12:31:21,guilty
+2,"hennepin county",2021-08-05,18:46:34,guilty
+3,"winona county",2021-10-15,13:25:59,guilty
+4,"winona county",2021-09-17,16:17:45,"not guilty"
+5,"wabasha county",2021-11-05,20:20:38,guilty
+6,"wabasha county",2021-05-25,12:32:17,guilty
+7,"houston county",2021-01-23,12:44:18,guilty
+8,"winona county",2021-02-07,22:55:03,guilty
+9,"winona county",2021-07-02,15:50:33,"not guilty"
+10,"winona county",2021-12-12,12:12:12,guilty
+11,"olmsted county",2021-06-11,15:27:11,guilty
+12,"olmsted county",2021-09-14,04:22:41,guilty
+13,"winona county",2021-10-13,17:34:22,guilty
+14,"winona county",2021-10-13,23:46:10,"not guilty"
+15,"houston county",2021-03-23,08:01:54,guilty
+16,"dakota county",2021-05-10,13:37:33,guilty
